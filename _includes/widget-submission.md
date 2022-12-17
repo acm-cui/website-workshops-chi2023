@@ -1,2 +1,2 @@
 ### Submission
- Papers should be submitted to [Minha Lee](mailto:m.lee@tue.nl) by email.
+ Papers should be submitted to [Jaisie Sin](mailto:js.sin@mail.utoronto.ca) by email.
