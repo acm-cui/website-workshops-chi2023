@@ -16,4 +16,4 @@ We seek position papers that are 3 to 4 pages long (including references), submi
 
 ## Publication
 
-Accepted papers will be posted to the workshop website ahead of the workshop date and serve as the basis for presentations and discussion at the workshop. For examples of papers that are acceptable for the workshop, please see the websites for past CHI workshops in 2022 (\url{www.conversationaluserinterfaces.org/workshops/CHI2022/}) and 2021 (\url{www.conversationaluserinterfaces.org/workshops/CHI2021/}). All accepted workshop papers will also be invited to submit to the CUI ’23 conference taking place in Eindhoven, The Netherlands.
+Accepted papers will be posted to the workshop website ahead of the workshop date and serve as the basis for presentations and discussion at the workshop. For examples of papers that are acceptable for the workshop, please see the websites for past CHI workshops in [2022](www.conversationaluserinterfaces.org/workshops/CHI2022/) and [2021](www.conversationaluserinterfaces.org/workshops/CHI2021/). All accepted workshop papers will also be invited to submit to the CUI ’23 conference taking place in Eindhoven, The Netherlands.
