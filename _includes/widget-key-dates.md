@@ -10,4 +10,4 @@ March 14th, 2023
 TBD
 
 **Workshop date**<br>
-TBD
+April 23rd, 2023
