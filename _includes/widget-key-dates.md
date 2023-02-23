@@ -1,7 +1,8 @@
 ### Key dates
 
 **Submissions due**<br>
-February 23rd, 2023
+~~February 23rd, 2023~~
+March 1st, 2023 AoE (extended deadline)
 
 **Notifications sent**<br>
 March 14th, 2023
