@@ -5,7 +5,7 @@
 March 1st, 2023 AoE (extended deadline)
 
 **Notifications sent**<br>
-March 14th, 2023
+March 6th, 2023
 
 **Camera-ready submission deadline**<br>
 TBD
