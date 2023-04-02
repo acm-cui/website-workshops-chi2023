@@ -39,7 +39,8 @@ The following papers were accepted for inclusion in the workshop:
     <th>Title</th>
   </tr>
   <!-- {% for entry in site.data.papers %} -->
-  {% for paper in entry.papers %}
+  <!-- {% for paper in entry.papers %} -->
+  {% for paper in site.data.papers %}
   <tr>
     <td>{{paper.authors}}</td>
     {% if paper.pdf %}
