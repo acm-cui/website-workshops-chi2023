@@ -33,18 +33,22 @@ The following papers were accepted for inclusion in the workshop:
 {% endfor %}
 </table> -->
 
-<!-- <table>
+<table>
   <tr>
     <th>Author(s)</th>
     <th>Title</th>
   </tr>
-  {% for entry in site.data.papers %}
+  <!-- {% for entry in site.data.papers %} -->
   {% for paper in entry.papers %}
   <tr>
     <td>{{paper.authors}}</td>
+    {% if paper.pdf %}
     <td><a href="{{ paper.pdf | absolute_url }}" title="View the PDF of {{ paper.title }}">{{ paper.title }}</a></td>
+    {% else %}
+    <td>{{ paper.title }}</td>
+    {% endif %}
   </tr>
    {% endfor %}
 
-{% endfor %}
-</table> -->
+<!-- {% endfor %} -->
+</table>
