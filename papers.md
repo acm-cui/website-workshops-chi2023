@@ -45,11 +45,11 @@ The following papers were accepted for inclusion in the workshop:
     <td>{{paper.authors}}</td>
     {% if paper.pdf %}
     <td><a href="{{ paper.pdf | absolute_url }}" title="View the PDF of {{ paper.title }}">{{ paper.title }}</a></td>
-    {% else %}
-    <td>{{ paper.title }}</td>
+    {% else %}  
+    <td><strong>{{ paper.title }}</strong></td>
     {% endif %}
   </tr>
-   {% endfor %}
+  {% endfor %}
 
 <!-- {% endfor %} -->
 </table>
