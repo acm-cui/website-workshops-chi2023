@@ -1,0 +1,81 @@
+- theme: 'Accepted Papers'
+  papers:
+    - title: 'Essential factors for Emergent Users in Smart Speakers'
+      authors: Shashank Ahire and Michael Rohs
+      pdf: pdfs/ahire_Submitted_Essential_factors_for_Emergent_Users_in_Smart_Speakers_CHI2023_workshop.pdf
+    - title: 'Voices of the Past: The Promise and Perils of VUIs for Home-Based Memory Recall'
+      authors: Fatemeh Alizadeh and Gunnar Stevens
+      pdf:
+    - title: 'Using Procedural Rhetoric To Identify Iniquitous Design As CUI-Specific Dark Patterns'
+      authors: Vino Avanesi, Thomas Mildner, Nima Zargham, Nina Wenig, Andreas Hepp, and Rainer Malaka
+      pdf: pdfs/avanesi_Using Procedural Rhetoric To Identify Iniquitous Design As CUI-Specific Dark Patterns.pdf
+    - title: 'Alexa, Siri, and Cortana Walk into a Library: The Potential of Voice Assistants in Creating Accessible Co-Reading Experiences'
+      authors: Cameron Cassidy, Sohyeon Park, and Stacy Marie Branham
+      pdf: pdfs/cassidy_Alexa, Siri, and Cortana Walk into a Library.pdf
+    - title: 'CUIs for Chronic Health Care'
+      authors: Elaine Czech, Ewan Soubutts, and Aisling O’Kane
+      pdf:
+    - title: 'Open Issues in Designing VUIs to Support Older Adults Seeking Health Information'
+      authors: Smit Desai and Jessie Chin
+      pdf: pdfs/desai_CUI@CHI-Smit.pdf
+    - title: 'Better Curious Than Smart?: Enhance Inclusiveness Between Mismatched Conversational Partners: An Opinion Paper'
+      authors: Guanyu Huang and Roger K. Moore
+      pdf: pdfs/huang_CHI23_Inclusiveness_Between_Mismatched_Partners_RD.pdf
+    - title: 'A Basis for Narrative Reframing Agents'
+      authors: Daniel T. Kessler
+      pdf: pdfs/kessler_Basis_for_Narrative_Reframing_Agents.pdf 
+    - title: 'Robots for Temporal Experiences: Co-Designing with People with Dementia'
+      authors: Rucha Khot, Minha Lee, and Rens Brankaert
+      pdf:
+    - title: 'CeeUI - Accessible Virtual Reality for the Blind and Visually Impaired: Challenges and Opportunities'
+      authors: Daniel Lange, Wilko Heuten, Mazen Salous, and Larbi Abdenebaoui
+      pdf: pdfs/lange_CeeUI_-_Accessible_Virtual_Reality_for_the_Blind_and_Visually_Impaired.pdf
+    - title: 'Advancing Inclusive Design in Multiple Dimensions'
+      authors: Gabriela Molina León
+      pdf: pdfs/leon_CUI-CHI2023-advancing-inclusive-design-in-multiple-dimensions-camera-ready.pdf
+    - title: 'Towards Intersectional CUI Design Approaches for African American English Speakers with Dysfuencies'
+      authors: Aaleyah Lewis, Jay L. Cunningham, Orevaoghene Ahia, and James Fogarty
+      pdf: pdfs/lewis_Towards_Intersectional_CUI_Design_Approaches_for_African_American_English_Speakers_with_Dysfluencies.pdf
+    - title: 'Empowering Elderly Care Service through Inclusive CUI Design'
+      authors: Yunxing Liu
+      pdf: pdfs/liu_Empowering_Elderly_Care_Service.pdf
+    - title: 'Inclusive Design of CUIs Across the Intersection of Race and Disability'
+      authors: Sanika Moharana, Patrick Carrington, Christina N Harrington
+      pdf: pdfs/moharana_CUI@CHI_2023_Workshop_SMPCCH.pdf
+    - title: 'Increasing transparency to design inclusive Conversational Agents (CAs)'
+      authors: Isabela Motta and Manuela Quaresma
+      pdf: 
+    - title: 'Inclusive Conversational User Interfaces for Adults with ADHD'
+      authors: Oda Elise Nordberg and Frode Guribye
+      pdf: pdfs/nordberg_Inclusive_Conversational_User_Interfaces_for_Adults_with_ADHD_Final.pdf
+    - title: 'Piloting A Novel Framework for Robust Multimodal Disfluency Detection'
+      authors: Elif Ecem Özkan, Lorenzo Jamone, Julian Hough, and Patrick G. T. Healey
+      pdf:
+    - title: 'Can CUIs improve circadian rhythm disorders among the elderly?'
+      authors: Sebestian Anupam Palma, Rucha Khot, and Minha Lee
+      pdf:
+    - title: 'Improving Software Developer Awareness of Web Accessibility via \'Accessibility Conversational Agents\''
+      authors: Ryan Paul and David R. Flatla
+      pdf: pdfs/paul_CUI@CHI_2023_Accessibility_Conversational_Agents.pdf
+    - title: 'How to Structure the Design Workshop of a Conversational Language Aid for/with an Indigenous Community?'
+      authors: Claudio Pinhanez
+      pdf: pdfs/pinhanez_CUI_CHI_Designing_for_CUIs_for_Indigenous_Communities.pdf
+    - title: 'Adjusting Conversational User Interfaces to fit Communication Needs of People with Dementia'
+      authors: Yvon Ruitenburg, Wijnand IJsselsteijn, Linde Meuzelaar, Panos Markopoulos, and Minha Lee
+      pdf: 
+    - title: 'From Route Descriptions to Route Conversations: The Next Evolution of CUI Interactions for Navigation'
+      authors: GGian-Luca Savino and Thomas Mildner
+      pdf: pdfs/savino_route_descriptions.pdf
+    - title: 'WidgetExplorer: A Rapid Prototyping and Evaluation Platform to Design Chatbots for all User Groups'
+      authors: Patrick Stadler and Stefan Schaffer
+      pdf: pdfs/stadler_WidgetExplorer_Camera_Ready.pdf
+    - title: 'Inclusive Indoor-Navigation Systems With Conversational User Interfaces'
+      authors: Verena Traubinger and Martin Gaedke
+
+      pdf:
+    - title: 'Examining Marginalization in the Financial Industry Related to Conversational Agents'
+      authors: Christina Wei and Anastasia Kuzminykh
+      pdf: pdfs/wei_Examining_Marginalization_in_the_Financial_Industry_Related_to_Conversational_Agents.pdf
+    - title: 'Challenges in Designing Racially Inclusive Language Technologies'
+      authors: Kimi V. Wenzel and Geoff Kaufman
+      pdf: pdfs/wenzel_FINAL_CHI_Workshop_Paper.pdf

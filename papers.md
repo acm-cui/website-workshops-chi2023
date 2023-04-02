@@ -6,9 +6,9 @@ nav_text: Accepted papers
 nav_position: 3
 ---
 
-The accepted papers will be available here before the workshop, if you would like to submit please check out our [Call for Papers](https://www.conversationaluserinterfaces.org/workshops/CHI2023/call-for-papers.html) page for details about submitting to the workshop.
+<!-- The accepted papers will be available here before the workshop, if you would like to submit please check out our [Call for Papers](https://www.conversationaluserinterfaces.org/workshops/CHI2023/call-for-papers.html) page for details about submitting to the workshop. -->
 
-<!-- The following papers were accepted for inclusion in the workshop: 
+The following papers were accepted for inclusion in the workshop: 
 
 <table>
   <tr>
@@ -31,4 +31,4 @@ The accepted papers will be available here before the workshop, if you would lik
    {% endfor %}
 
 {% endfor %}
-</table> -->
+</table>
