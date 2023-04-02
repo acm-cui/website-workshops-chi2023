@@ -33,7 +33,7 @@ The following papers were accepted for inclusion in the workshop:
 {% endfor %}
 </table> -->
 
-<table>
+<!-- <table>
   <tr>
     <th>Author(s)</th>
     <th>Title</th>
@@ -47,4 +47,4 @@ The following papers were accepted for inclusion in the workshop:
    {% endfor %}
 
 {% endfor %}
-</table>
+</table> -->
