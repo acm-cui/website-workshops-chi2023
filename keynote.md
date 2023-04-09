@@ -3,7 +3,7 @@ layout: page
 title: Keynote
 
 nav_text: Keynote
-nav_position: 2
+nav_position: 1
 ---
 
 ## Workshop Keynote
