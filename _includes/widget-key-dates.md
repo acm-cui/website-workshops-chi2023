@@ -10,5 +10,5 @@ March 6th, 2023
 **Camera-ready submission deadline**<br>
 TBD
 
-**Workshop date**<br>
-April 23rd, 2023
+**Workshop date & time**<br>
+April 23rd, 2023, 14:00 - 17:30
