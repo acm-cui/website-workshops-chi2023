@@ -3,6 +3,7 @@
   pdf: pdfs/ahire_Submitted_Essential_factors_for_Emergent_Users_in_Smart_Speakers_CHI2023_workshop.pdf
 - title: 'Voices of the Past: The Promise and Perils of VUIs for Home-Based Memory Recall'
   authors: Fatemeh Alizadeh and Gunnar Stevens
+  pdf: pdfs/alizadeh_CUI-Voices of the Past.pdf
 - title: 'Using Procedural Rhetoric To Identify Iniquitous Design As CUI-Specific Dark Patterns'
   authors: Vino Avanesi, Thomas Mildner, Nima Zargham, Nina Wenig, Andreas Hepp, and Rainer Malaka
   pdf: pdfs/avanesi_Using Procedural Rhetoric To Identify Iniquitous Design As CUI-Specific Dark Patterns.pdf
@@ -46,6 +47,7 @@
   pdf: pdfs/nordberg_Inclusive_Conversational_User_Interfaces_for_Adults_with_ADHD_Final.pdf
 - title: 'Piloting A Novel Framework for Robust Multimodal Disfluency Detection'
   authors: Elif Ecem Özkan, Lorenzo Jamone, Julian Hough, and Patrick G. T. Healey
+  pdf: pdfs/ozkan_etal_PilotingMMDisfluencyDetection_camera_ready.pdf
 - title: 'Can CUIs improve circadian rhythm disorders among the elderly?'
   authors: Sebestian Anupam Palma, Rucha Khot, and Minha Lee
 - title: 'Improving Software Developer Awareness of Web Accessibility via ‘Accessibility Conversational Agents’'
