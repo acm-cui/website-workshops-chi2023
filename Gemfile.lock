@@ -83,6 +83,7 @@ PLATFORMS
 
 DEPENDENCIES
   execjs
+  http_parser.rb (~> 0.6.0)
   jekyll (~> 4.2.0)
   jekyll-datapage-generator (~> 1.3.0)
   jekyll-feed (~> 0.12)
@@ -93,7 +94,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-titles-from-headings
-  tzinfo (~> 1.2)
+  tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
   webrick
